@@ -1,3 +1,5 @@
+![Preview](https://user-images.githubusercontent.com/16135535/160434047-b977b33f-cf08-4ef7-8a2b-7165018e10f5.png)
+
 # Introduction:
 Liar's Dice is a dice Game widely played in South America using a set of cups and dice. Bluffing is highly encouraged!
 
